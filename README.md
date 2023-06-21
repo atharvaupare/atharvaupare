@@ -12,4 +12,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaupare&show_icons=true&locale=en&layout=compact" alt="atharvaupare" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaupare)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaupare&hide=stars,prs,issues)(https://github.com/anuraghazra/github-readme-stats)
