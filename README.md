@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Upare</h1>
-<h3 align="center">I'm passionate about Web Development, Data Science and CP.</h3>
+<h3 align="center">I'm passionate about Web Development and Data Science.</h3>
 
 - 🌱 I’m currently learning **NodeJS**
 
