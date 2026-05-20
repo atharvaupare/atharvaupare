@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Upare</h1>
 <h3 align="center">I'm passionate about Web Development and Data Science.</h3>
 
-- 🌱 I’m currently learning **NodeJS**
 
 ![image_processing20200726-31039-6f3vm3](https://github.com/atharvaupare/atharvaupare/assets/119214856/fbab7a74-536b-456b-a04c-3c0ee202d763)
 
